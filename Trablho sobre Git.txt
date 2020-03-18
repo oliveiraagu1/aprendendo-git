@@ -1,0 +1,2 @@
+O git é um sistema de controle de versão de arquivos, onde podemos desenvolver diversos projetos, no qual várias pessoas podem mexer ao mesmo tempo, podendo ser editado e criado arquivos novos, permitindo que os mesmos possam existir sem o risco de suas alterações serem sobrescritas, podendo voltar facilmente a qualquer ponto para saber o que estava escrito no código em uma data antiga. 
+
